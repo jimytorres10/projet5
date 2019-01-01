@@ -1,0 +1,12 @@
+{
+    "name": "twig/test",
+    "authors": [
+        {
+            "name": "jimmy",
+            "email": "jimmyragon@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
